@@ -17,13 +17,13 @@ y = "7"
 
 # y = 7
 
-# print(x + y)
+print(x + int(y))
 
 
 # Write a print statement that combines x + y into the string value 57
 
-x = "5"
+# x = "5"
 
-print(x + y)
+print(str(x) + y)
 
 # YOUR CODE HERE
